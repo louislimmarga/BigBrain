@@ -1,0 +1,11 @@
+- Uses red color as background as it is a highly visible color that is allow people to focus their attention quickly and get people to make quick decisions.
+- Uses gradient and light red to make it easy for the eyes.
+- Simple UI that can easily be understood
+- Loading screen has the big brain logo spinning
+- Uses contrasting color for texts.
+- Every component is centered
+- Has barely noticeable animations when clicking some buttons
+- Almost all page has some sort of 'back' or 'go back to home' button
+- Player's pages are simple and can easily be understood
+- Uses bigger fonts for headings
+- 
